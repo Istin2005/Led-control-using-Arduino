@@ -89,8 +89,12 @@ else{
 
 ## LED OFF
 <img width="886" height="472" alt="image" src="https://github.com/user-attachments/assets/9b2cb7be-bbf6-442c-93c3-7f5b5dd0cc72" />
+
+
+
 ## LED ON
-<img width="1035" height="700" alt="image" src="https://github.com/user-attachments/assets/cf08414a-90c7-4da8-a161-1dbd87fc6969" />
+<img width="910" height="466" alt="image" src="https://github.com/user-attachments/assets/007a8e2f-9c2d-4010-8b6d-dc0b62b40f43" />
+
 
 
 ## RESULT
