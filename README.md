@@ -1,7 +1,7 @@
 ## NAME: ISTIN B
 ## REG NO:212223040068
 
-# EXP 1 Led-control-using-Arduino
+# EXP 1 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
