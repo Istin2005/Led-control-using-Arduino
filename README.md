@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+## NAME: ISTIN B
+## REG NO:212223040068
+
+# EXP 1 Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -84,9 +87,9 @@ else{
 
 ## OUTPUT
 
-##LED OFF
+## LED OFF
 <img width="886" height="472" alt="image" src="https://github.com/user-attachments/assets/9b2cb7be-bbf6-442c-93c3-7f5b5dd0cc72" />
-##LED ON
+## LED ON
 <img width="1035" height="700" alt="image" src="https://github.com/user-attachments/assets/cf08414a-90c7-4da8-a161-1dbd87fc6969" />
 
 
